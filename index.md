@@ -10,7 +10,7 @@ meetup-group:
 ---
 
 <div class="image-container">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fowasp.org%2Fwww-project-top-ten%2F&psig=AOvVaw1YllhTaeTPC3yBlZu4s4zl&ust=1712249937959000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjsjpzCpoUDFQAAAAAdAAAAABAE" alt="OWASP Image">
+  <img src="https://owasp.org/assets/images/logo.png" alt="OWASP Image">
 </div>
 
 ## Welcome
