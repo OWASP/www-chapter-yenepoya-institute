@@ -12,9 +12,9 @@ tags: OWASP Yenepoya
 
 | **Roles**              | **Responsibilities**                                           | **Person(s)**                             |
 | ---------------------- | -------------------------------------------------------------  | ----------------------------------------- |
-| President              | Overall leadership and direction.                              | Kiran Singh                               |
-| Industrial Partner & Leader -1 | Data Scientist &  SME for IBM ICE , Google Certified,          | Sumit Kumar Shukla                        |
-| Industrial Partner - 2 | Cyber Security SME for IBM, AWS Certified, CompTIA Pentest+    | Mohsin Quresh                             |
+| President              | Overall leadership and direction.                              | <a href="https://www.linkedin.com/in/cybercrush/">Kiran Singh</a>                               |
+| Industrial Partner & Leader -1 | Data Scientist &  SME for IBM ICE , Google, IBM & AWS Certified,          | <a href="https://www.linkedin.com/in/sumitkumarshukla/">Sumit Kumar Shukla</a>                        |
+| Industrial Partner - 2 | Cyber Security SME for IBM, AWS Certified, CompTIA Pentest+    | <a href="https://www.linkedin.com/in/mohsin-quresh/">Mohsin Qureshi</a>                             |
 | Secretary              | Manages administrative tasks.                                  | Sample Name                               |
 | Vice President         | Assists the President and takes charge in their absence.       | Sample Name                               |
 | Joint Secretary        | Manages administrative tasks.                                  | Sample Name                               |
