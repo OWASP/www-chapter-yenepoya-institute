@@ -13,8 +13,9 @@ tags: OWASP Yenepoya
 | **Roles**              | **Responsibilities**                                           | **Person(s)**                             |
 | ---------------------- | -------------------------------------------------------------  | ----------------------------------------- |
 | President              | Overall leadership and direction.                              | <a href="https://www.linkedin.com/in/cybercrush/">Kiran Singh</a>                               |
-| Industrial Partner & Leader -1 | Data Scientist &  SME for IBM ICE , Google, IBM & AWS Certified,          | <a href="https://www.linkedin.com/in/sumitkumarshukla/">Sumit Kumar Shukla</a>                        |
-| Industrial Partner - 2 | Cyber Security SME for IBM, AWS Certified, CompTIA Pentest+    | <a href="https://www.linkedin.com/in/mohsin-quresh/">Mohsin Qureshi</a>                             |
+| Industrial Partner -1 | Delivery Head,  IBM ICE     | <a href="https://www.linkedin.com/in/viqaruddin-surki-b9897413/">Mr. Viqaruddin Surki</a>                        |
+| Industrial Partner & Chapter Leader -2 | Data Scientist &  SME for IBM ICE , Google, IBM & AWS Certified,          | <a href="https://www.linkedin.com/in/sumitkumarshukla/">Mr. Sumit Kumar Shukla</a>                        |
+| Industrial Partner - 2 | Cyber Security SME for IBM, AWS Certified, CompTIA Pentest+    | <a href="https://www.linkedin.com/in/mohsin-quresh/">Mr. Mohsin Qureshi</a>                             |
 | Secretary              | Manages administrative tasks.                                  | Sample Name                               |
 | Vice President         | Assists the President and takes charge in their absence.       | Sample Name                               |
 | Joint Secretary        | Manages administrative tasks.                                  | Sample Name                               |
