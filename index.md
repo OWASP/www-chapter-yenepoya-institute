@@ -13,8 +13,6 @@ meetup-group:
   <img src="https://owasp.org/assets/images/logo.png" alt="OWASP Image">
 </div>
 
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGBYjTmtRQ&#x2F;kelngLuYpQe1B0LAKVEtNg&#x2F;watch?utm_content=DAGBYjTmtRQ&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Blue and Beige Illustrative Music YouTube Intro</a> by KIRAN SINGH
-
 ## Welcome
 **Yenepoya University**, located in Mangalore, is a prominent educational institution known for its excellence in education, research, and innovation. It has been a steady source of highly skilled talent, contributing not only to the nation but also to overseas endeavors. Renowned for its pioneering efforts in engineering education, research, and innovation, Yenepoya University stands at the forefront of academic excellence.
 
