@@ -19,7 +19,7 @@ The chapter was inaugrated in the presence of **Mr. Viqaruddin Surki** (Delivery
 ](https://www.linkedin.com/posts/owasp-yenepoya_highlights-owasp-yenepoya-institute-chapter-activity-7183010322050347008-5GFb?utm_source=share&utm_medium=member_desktop).
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="./assets/images/poster.jpg" style="width: 40%; margin-right: 10%;">
+  <img src="./assets/images/poster.jpg" style="width: 90%; margin-right: 10%;">
  </div>
  
 <img src="./assets/images/ig1.jpg" style="width: calc(40% - 10px);">
