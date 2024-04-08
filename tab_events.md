@@ -14,5 +14,5 @@ The chapter was inaugrated in the presence of Mr. Viqaruddin Surki(Delivery Head
 and various office bearers of Yenepoya Institute. [A short video from our inaugration]
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="./assets/images/inaugratiom.jpeg" style="width: 40%; margin-right: 10%;">
+  <img src="/assets/images/events/poster.jpg" style="width: 40%; margin-right: 10%;">
 </div>
