@@ -27,9 +27,10 @@ We're excited to share snapshots from our recent OWASP Yenepoya Institute Chapte
 <div style="display: flex; justify-content: space-between;">
   <img src="./assets/images/poster.jpg" style="width: 80%; margin-right: 10%;">
  </div>
- 
+---
 Best Regards,
 [Kiran Singh Rajpurohit](https://www.linkedin.com/in/cybercrush/)
+
 President 
 OWASP Yenepoya Institute Chapter
 
