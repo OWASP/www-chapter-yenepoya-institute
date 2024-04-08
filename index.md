@@ -8,10 +8,12 @@ country: India
 meetup-group:
 
 ---
+<div style="position: relative; width: 774.11px; height: 329.79px; padding-top: 8.1429%; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;">
+    <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+      src="https://www.canva.com/design/DAGByt_uJlo/HIjRGew4LpV4yHFkZP-FYQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+    </iframe>
+  </div>
 
-<div class="image-container">
-  <img src="https://owasp.org/assets/images/logo.png" alt="OWASP Image">
-</div>
 
 ## Welcome to the OWASP Yenepoya Student Chapter
 **Yenepoya University**, located in Mangalore, is a prominent educational institution known for its excellence in education, research, and innovation. It has been a steady source of highly skilled talent, contributing not only to the nation but also to overseas endeavors. Renowned for its pioneering efforts in engineering education, research, and innovation, Yenepoya University stands at the forefront of academic excellence.
