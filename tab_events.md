@@ -13,5 +13,5 @@ tags: OWASP Yenepoya
 The chapter was inaugrated in the presence of Mr. Viqaruddin Surki (Delivery Head for IBM ICE), Dr. Shareena P (Vice Principal - YIASCM) & Mr. Sumit Kumar Shukla (Subject Matter Expert, IBM ICE) 
 and various office bearers of Yenepoya Institute. [A short video from our inaugration] 
 
-![Image](/www-chapter-yenepoya-institute/assets/images/KiranOwasp.png)
+![Image](/www-chapter-yenepoya-institute/assets/images/poster.jpg)
 
