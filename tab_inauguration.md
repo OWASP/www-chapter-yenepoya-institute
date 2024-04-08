@@ -1,6 +1,6 @@
 ---
-title: events
-displaytext: Events
+title: Inaugration
+displaytext: Inaugration
 layout: null
 tab: true
 order: 3
