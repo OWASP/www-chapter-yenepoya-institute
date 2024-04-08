@@ -8,9 +8,7 @@ country: India
 meetup-group:
 
 ---
-<div style="position: relative; width: 774.11px; height: 329.79px; padding-top: 8.1429%; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;">
-   src="assets/images/KiranOwasp.png" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </div>
+![OWASP Yenepoya](/assets/images/KiranOwasp.png)
 
 
 ## Welcome to the OWASP Yenepoya Student Chapter
