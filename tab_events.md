@@ -20,9 +20,9 @@ The chapter was inaugrated in the presence of **Mr. Viqaruddin Surki** (Delivery
 
 <div style="display: flex; justify-content: space-between;">
   <img src="./assets/images/poster.jpg" style="width: 40%; margin-right: 10%;">
-  <img src="./assets/images/ig1.jpg" style="width: 40%; margin-right: 10%;">
-  <img src="./assets/images/ig2.jpg" style="width: 40%; margin-right: 10%;">
-  <img src="./assets/images/ig3.jpg" style="width: 40%; margin-right: 10%;">
-  <img src="./assets/images/ig4.jpg" style="width: 40%; margin-right: 10%;">
+  <img src="./assets/images/ig1.jpg">
+  <img src="./assets/images/ig2.jpg">
+  <img src="./assets/images/ig3.jpg">
+  <img src="./assets/images/ig4.jpg">
 </div>
 
