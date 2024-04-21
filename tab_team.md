@@ -26,3 +26,7 @@ tags: OWASP Yenepoya
 | Public Relations Officer | Manages relationships with the public and organizations.     | Muhammed Ismail Salim                     |
 | Social Media Lead      | Handles all social media accounts and related affairs.         | Thasmiya                                  |
 | Event Coordinator      | Plans and coordinates events.                                  | Vaishnavi                                 |
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="cybercrush" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/cybercrush?trk=profile-badge">Kiran Singh Rajpurohit</a></div>
+              
