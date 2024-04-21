@@ -44,6 +44,10 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
+We Have Lots Of Exciting Stuff Coming Up Very Soon ! Stay Tuned on 
+-  <a href="https://www.linkedin.com/company/owasp-yenepoya/" target="_blank" > <img width = "20" height = "20" src ="https://owasp.org/www-chapter-thapar-institute-of-engineering-and-technology/assets/images/linkedin-brands.svg"/>  <span style = "font-family:sans-serif">  Linkedin </span></a> <br/>
+
+
 
 <!-- You should delete this comment
 
