@@ -1,4 +1,5 @@
 ### Yenepoya Institute Information
+* ![OWASP Yenepoya Chapter](assets/images/leaders.png)
 * [Yenepoya (Deemed to be University)](https://www.yiascm.yenepoya.edu.in/) brings you a world-class educational experience in the pristine surroundings of a tranquil south Indian town. Come explore Yenepoya and evolve into a technology-enabled future.
 
 ### Social Links
