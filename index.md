@@ -13,7 +13,7 @@ meetup-group:
 
 ## Welcome to the OWASP Yenepoya Student Chapter
 ---
-![OWASP Yenepoya](/assets/images/KiranOwasp.png)
+![OWASP Yenepoya](/assets/images/KiranOwasp2.png)
 
 ---
 **Yenepoya University**, located in Mangalore, is a prominent educational institution known for its excellence in education, research, and innovation. It has been a steady source of highly skilled talent, contributing not only to the nation but also to overseas endeavors. Renowned for its pioneering efforts in engineering education, research, and innovation, Yenepoya University stands at the forefront of academic excellence.
