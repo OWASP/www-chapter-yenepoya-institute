@@ -48,7 +48,7 @@ We Have Lots Of Exciting Stuff Coming Up Very Soon ! Stay Tuned on
 -  <a href="https://www.linkedin.com/company/owasp-yenepoya/" target="_blank" > <img width = "20" height = "20" src ="https://owasp.org/www-chapter-thapar-institute-of-engineering-and-technology/assets/images/linkedin-brands.svg"/>  <span style = "font-family:sans-serif"> Linkedin </span></a> <br/>
 -  <a href="https://t.me/owasp_yenepoya" target="_blank" > <img width = "20" height = "20" src ="./assets/images/Telegram_logo.svg.webp"/>  <span style = "font-family:sans-serif">Telegram</span></a> <br/>
 
-
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdzqfFuDgylj9Lq_hiCvwXmNZDFJUMRGuuC3-rwV2h9kXPHKw/viewform?embedded=true" width="640" height="953" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 <!-- You should delete this comment
 
