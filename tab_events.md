@@ -9,6 +9,7 @@ tags: OWASP Yenepoya
 --------------------------
 ### Our Upcoming Event! 🌟
 **🌐 2: Embracing the Future: Exploring 5G Technology and Cybersecurity 🛡️**
+
 📅 Event Details:
 - Speaker : Saurav Rajpurohit
 - Date : 10 May ,2024
