@@ -45,7 +45,8 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 We Have Lots Of Exciting Stuff Coming Up Very Soon ! Stay Tuned on 
--  <a href="https://www.linkedin.com/company/owasp-yenepoya/" target="_blank" > <img width = "20" height = "20" src ="https://owasp.org/www-chapter-thapar-institute-of-engineering-and-technology/assets/images/linkedin-brands.svg"/>  <span style = "font-family:sans-serif">  Linkedin </span></a> <br/>
+-  <a href="https://www.linkedin.com/company/owasp-yenepoya/" target="_blank" > <img width = "20" height = "20" src ="https://owasp.org/www-chapter-thapar-institute-of-engineering-and-technology/assets/images/linkedin-brands.svg"/>  <span style = "font-family:sans-serif"> Linkedin </span></a> <br/>
+-  <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" target="_blank" > <img width = "20" height = "20" src ="https://owasp.org/www-chapter-thapar-institute-of-engineering-and-technology/assets/images/linkedin-brands.svg"/>  <span style = "font-family:sans-serif">Telegram</span></a> <br/>
 
 
 
