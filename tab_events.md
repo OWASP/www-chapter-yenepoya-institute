@@ -12,7 +12,7 @@ tags: OWASP Yenepoya
 
 📅 Event Details:
 - Speaker : Saurav Rajpurohit
-- Date : 10 May ,2024
+- Date : 11 May ,2024
 - Time : 10 AM to 11 PM
 - Location/Virtual Platform : YIASCM - Video Conference Room. 
 
