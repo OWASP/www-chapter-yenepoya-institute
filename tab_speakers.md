@@ -11,7 +11,8 @@ tags: OWASP Yenepoya
 
 Our Call for Speakers is now open! If you're passionate about cybersecurity and would like to share your knowledge with the OWASP Yenepoya Institute Chapter, we invite you to submit your proposal. 
 Please review and agree to the [OWASP Speaker Agreement](https://www.owasp.org/index.php/Speaker_Agreement), then send us your proposed talk title, abstract, and speaker information via [Email](mailto:kiran.singh@owasp.org) or by filling out the Application Form below.
-[Become a Speaker](mailto:kiran.singh@owasp.org).
+
+[*Become a Speaker*](mailto:kiran.singh@owasp.org).
 
 **Email Format :**
 
