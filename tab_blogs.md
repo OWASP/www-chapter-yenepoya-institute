@@ -1,11 +1,12 @@
 ---
-title: Blogs
-displaytext: Team Meet & Details 
+title: blogs
+displaytext: Team Meet & Details
 layout: null
 tab: true
-order: 4
-tags: OWASP YENEPOYA
+order: 3
+tags: OWASP Yenepoya
 ---
+
 
 ## **Details regarding meetings with team members of the Chapter:**
 - **Meeting on 1st April , 2024**
