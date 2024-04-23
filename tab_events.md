@@ -10,11 +10,7 @@ tags: OWASP Yenepoya
 ### Our Upcoming Event! 🌟
 **🌐 2: Embracing the Future: Exploring 5G Technology and Cybersecurity 🛡️**
 
-📅 Event Details:
-- Speaker : Saurav Rajpurohit
-- Date : 11 May ,2024
-- Time : 10 AM to 11 PM
-- Location/Virtual Platform : YIASCM - Video Conference Room. 
+
 
 <!---
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdzqfFuDgylj9Lq_hiCvwXmNZDFJUMRGuuC3-rwV2h9kXPHKw/viewform?embedded=true" width="440" height="653" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
