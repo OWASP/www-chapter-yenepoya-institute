@@ -9,6 +9,12 @@ tags: OWASP Yenepoya
 
 
 ## **Details regarding meetings with team members of the Chapter:**
+- **Meeting on April 26th, 2024**
+  - Type: Online Meeting
+  - Platform: Google Meet
+  - Timing: 10:30 AM - 11:30 AM
+  - Agenda: Upcoming Events & Chapter Orientation - [Slides](https://docs.google.com/presentation/d/1YAQmXwPm0wsNJ5_cJykdQPsjA0-oetq37LzXZt98a4Y/edit?usp=sharing)
+
 - **Meeting on 1st April , 2024**
   - Type: Offline Meeting
   - Venue: IBM LAB, A - Block ,YIASCM
