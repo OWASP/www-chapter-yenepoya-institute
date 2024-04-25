@@ -45,7 +45,7 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 ---------------------
 ### Our Upcoming Event! 🌟
 **🌐 2: Embracing the Future: Exploring 5G Technology and Cybersecurity 🛡️**
-- Stay tuned for more details on date and time. The event will take place after the semester exams. Don't miss this opportunity to dive into the world of 5G technology and cybersecurity! 🚀 
+- Stay tuned for more details on date and time. Don't miss this opportunity to dive into the world of 5G technology and cybersecurity! 🚀 
 
 We Have Lots Of Exciting Stuff Coming Up Very Soon ! Stay Tuned on 
 -  <a href="https://www.linkedin.com/company/owasp-yenepoya/" target="_blank" > <img width = "20" height = "20" src ="https://owasp.org/www-chapter-thapar-institute-of-engineering-and-technology/assets/images/linkedin-brands.svg"/>  <span style = "font-family:sans-serif"> Linkedin </span></a> <br/>
