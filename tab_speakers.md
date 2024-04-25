@@ -14,7 +14,7 @@ Please review and agree to the [OWASP Speaker Agreement](https://www.owasp.org/i
 
 [*Become a Speaker*](https://forms.gle/nS9cHeKJoVFmiaGDA).
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScmzz2mzZ1zSspisXODMzqUWHGcPOkYtqRwyBQezoWYdObXgg/viewform?embedded=true" width="640" height="2708" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScmzz2mzZ1zSspisXODMzqUWHGcPOkYtqRwyBQezoWYdObXgg/viewform?embedded=true" width="940" height="2708" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 
 
