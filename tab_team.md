@@ -8,8 +8,9 @@ tags: OWASP Yenepoya
 ---
 
 ## Guiding Forces: Leaders of OWASP Yenepoya
-<img src="assets/images/leaders.png" style="width:50vw"/>
+<img src="assets/images/leaders.png" style="width:65vw"/>
 
+---
 ## Our Executive Board
 
 
