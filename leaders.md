@@ -3,4 +3,5 @@
 * 👑 [Rathnakar Shetty P](mailto:rathnakar.shettyp@owasp.org)
 * 👑 [Sumit Kumar Shukla](mailto:sumit.kumarshukla@owasp.org)
 
- ![OWASP Badge](./assets/images/badge1.png)
+ <!--![OWASP Badge](./assets/images/badge1.png) -->
+ ![OWASP Yenepoya Chapter](assets/images/leaders.png)
