@@ -6,9 +6,10 @@ tab: true
 order: 3
 tags: OWASP Yenepoya
 ---
+
 ## Guiding Forces: Leaders of OWASP Yenepoya
-![OWASP Yenepoya Chapter](assets/images/leaders.png){ width=50% }
----
+<img src="assets/images/leaders.png" style="width:40vw"/>
+
 ## Our Executive Board
 
 
