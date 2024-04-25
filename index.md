@@ -43,14 +43,17 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
-{% include chapter_events.html group=page.meetup-group %}
+### Our Upcoming Event! 🌟
+**🌐 2: Embracing the Future: Exploring 5G Technology and Cybersecurity 🛡️**
+- Stay tuned for more details on date and time. The event will take place after the semester exams. Don't miss this opportunity to dive into the world of 5G technology and cybersecurity! 🚀 
+
 We Have Lots Of Exciting Stuff Coming Up Very Soon ! Stay Tuned on 
 -  <a href="https://www.linkedin.com/company/owasp-yenepoya/" target="_blank" > <img width = "20" height = "20" src ="https://owasp.org/www-chapter-thapar-institute-of-engineering-and-technology/assets/images/linkedin-brands.svg"/>  <span style = "font-family:sans-serif"> Linkedin </span></a> <br/>
 -  <a href="https://t.me/owasp_yenepoya" target="_blank" > <img width = "20" height = "20" src ="./assets/images/Telegram_logo.svg.webp"/>  <span style = "font-family:sans-serif">Telegram</span></a> <br/>
 
 <!-- You should delete this comment
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdzqfFuDgylj9Lq_hiCvwXmNZDFJUMRGuuC3-rwV2h9kXPHKw/viewform?embedded=true" width="640" height="953" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
+{% include chapter_events.html group=page.meetup-group %}
 <!-- You should delete this comment
 
 Standard Chapter Page Template
