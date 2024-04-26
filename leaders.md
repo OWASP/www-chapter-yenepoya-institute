@@ -1,7 +1,7 @@
 ### Leaders 
-* 👑 [Kiran Singh](mailto:kiran.singh@owasp.org)
-* 👑 [Rathnakar Shetty P](mailto:rathnakar.shettyp@owasp.org)
-* 👑 [Sumit Kumar Shukla](mailto:sumit.kumarshukla@owasp.org)
+* [Kiran Singh](mailto:kiran.singh@owasp.org)
+* [Rathnakar Shetty P](mailto:rathnakar.shettyp@owasp.org)
+* [Sumit Kumar Shukla](mailto:sumit.kumarshukla@owasp.org)
 
- <!--![OWASP Badge](./assets/images/badge1.png) -->
+
 
