@@ -23,8 +23,6 @@ tags: OWASP Yenepoya
 | Industrial Partner - 3 | Cyber Security SME for IBM, AWS Certified, CompTIA Pentest+    | <a href="https://www.linkedin.com/in/mohsin-quresh/">Mr. Mohsin Qureshi</a>                             |
 | Secretary              | Manages administrative tasks.                                  | Md. Farzeen Hussain                       |
 | Vice President         | Assists the President and takes charge in their absence.       | Nanma                                     |
-| Joint Secretary        | Manages administrative tasks.                                  | Hari Govind                               |
-| Treasurer              | Manages chapter finances and transactions.                     | Abdul Rahiman  Fayiz                      |
 | Outreach Coordinator   | Engagement, communication, events, partnerships, analysis.     | Ahzaaf S                                  |
 | Membership Coordinator | Manages membership-related tasks and coordination.             | Nithesh                                   |
 | Technical Lead         | Oversees technical aspects from development to deployment.     | Sarvesh Nayak                             |
