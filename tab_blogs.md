@@ -9,6 +9,12 @@ tags: OWASP Yenepoya
 
 
 ## **Details regarding meetings with team members of the Chapter:**
+- **Meeting on August 20th, 2024**
+  - Type: Offline Meeting
+  - Platform: YIASCM OFFICE 
+  - Timing: 2:30 PM - 3:30 PM
+  - Agenda: Agreement Request 📄 & Executive Board Selection. 
+    
 - **Meeting on April 26th, 2024**
   - Type: Online Meeting
   - Platform: Google Meet
