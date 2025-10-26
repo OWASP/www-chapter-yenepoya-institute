@@ -1,0 +1,26 @@
+leaders:
+  - name: Kiran Singh
+    email: kiran.singh@owasp.org
+    github: ks-raj
+  - name: Rathnakar Shetty P
+    email: rathnakar.shettyp@owasp.org
+  - name: Sumit Kumar Shukla
+    email: sumit.kumarshukla@owasp.org
+    github: nodeswithsumit
+location:
+  country: India
+  country_code: IN
+  region: Karnataka
+  city: Mangalore
+  latitude: 12.8698101
+  longitude: 74.8430082
+name: OWASP Yenepoya Institute
+repositories:
+  - name: www-chapter-yenepoya-institute
+    url: https://github.com/OWASP/www-chapter-yenepoya-institute
+    description: OWASP Foundation web repository
+tags:
+  - OWASP
+  - Yenepoya
+  - custom-tag-1
+website: https://owasp.org/www-chapter-yenepoya-institute
